@@ -89,3 +89,5 @@ Always prioritize safety when navigating the darknet. Stay informed, use trusted
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/temp/ribbon.webp" alt="DarkDock Login" style="max-width: 100%;"></a>
   
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/temp/maximized.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
+
+Update:  06/26/2025 09-09-32 The broken link has been fixed, it's now operational.
